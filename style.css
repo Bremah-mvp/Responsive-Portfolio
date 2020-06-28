@@ -52,6 +52,12 @@ color:blue;
 margin: 0.1em 0;
 }
 
+.text1-center {
+    /* text will appear center */
+    text-align: center;
+   
+}
+
 
 
 .pg {
