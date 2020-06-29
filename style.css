@@ -59,9 +59,11 @@ margin: 0.1em 0;
 }
 
 .form-group {
+    /* security questions */
     font-style: normal;
     font-weight: bolder;
     font-size: x-large;
+
 }
 
 
