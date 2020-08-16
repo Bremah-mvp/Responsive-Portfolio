@@ -42,6 +42,16 @@ body {
   
 
 }
+
+h1,
+h2,
+h3,
+p {
+  margin-bottom: 20px;
+}
+
+
+
 /* paragraph one attributes */
 .para-1 {
 font-weight: bolder;
@@ -66,6 +76,9 @@ margin: 0.1em 0;
 
 }
 
+.contact-1 {
+    text-decoration: underline;
+}
 
 
 .pg {
@@ -85,7 +98,7 @@ margin: 0.1em 0;
 }
 .footer {
     /* footer will be transparent */
-    background-color:transparent;
+  text-align: center;
 }
 
 .card-body {
@@ -102,14 +115,15 @@ margin: 0.1em 0;
     font-style: italic;
     font-weight: bolder;
     padding-left: 20cm ocm;
+    text-align: center;
 
 
 }
 
 .footer1-body {
     /* footer1 attributes */
-
-    background-color: black;
+text-align: center;
+    background-color: none;
     font-style: italic;
     font-weight: bolder;
     padding-left: 20cm 0cm;
@@ -126,15 +140,34 @@ margin: 0.1em 0;
 
 }
 
-.footer {
-
-    /* background-color set to gray */
-    background-color: gray;
+.page-footer {
+    text-align: center;
+   
 }
+
+.footer-copyright {
+    margin: 10px;
+    font-size: 2em;
+    text-align: center;
+
+}
+#main-container {
+    padding-top: 130px;
+    min-height: calc(100vh - 70px);
+    background-color:none;
+    text-decoration-style: solid;
+  }
+
+
+.main-section {
+    text-align: center;
+    align-content: center;
+    background-color: none;
+  }
 
 
 /* resolution of different screen sizes set */
-@media screen and (max-width: 768px) {
+@media screen and (max-width:980px, 768px, 640px) {
     /* The body's bg color will be #333 */
     body {
       background-color: #333;
