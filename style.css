@@ -113,7 +113,7 @@ margin: 0.1em 0;
     /* footer attributes */
     background-color: black;
     font-style: italic;
-    font-weight: bolder;
+    font-weight: bold;
     padding-left: 20cm ocm;
     text-align: center;
 
@@ -127,6 +127,7 @@ text-align: center;
     font-style: italic;
     font-weight: bolder;
     padding-left: 20cm 0cm;
+    color: white;
 
 }
 
@@ -137,6 +138,7 @@ text-align: center;
     font-style: italic;
     font-weight: bolder;
     padding-left: 20cm 0cm;
+    color: white;
 
 }
 
@@ -147,7 +149,7 @@ text-align: center;
 
 .footer-copyright {
     margin: 10px;
-    font-size: 2em;
+    
     text-align: center;
 
 }
