@@ -25,4 +25,4 @@ One of the most import aspects of bootstrap it enables a Mobile First design. Us
  Here's a link to my web appliaction : https://bremah-mvp.github.io/Responsive-Portfolio-Updated/
 
  BELOW IS A SNAPSHOT OF HOW THE APPLICATION LOOKS LIKE:
- ![picture]()                    
+ ![picture](https://github.com/Bremah-mvp/Responsive-Portfolio-Updated/blob/master/assets/snap.png)                    
