@@ -1,6 +1,6 @@
 body {
 /* body attributes */
-    background-image: url(./bremah4.jpg);
+    background-image: url(./assets/bremah4.jpg);
     box-sizing: content-box;
     border: 100ch;
     background-color:none;
@@ -13,7 +13,7 @@ body {
 
 .body-content {
     /* body attributes */
-    background-image: url(./bremah.jpg);
+    background-image: url(./assets/bremah.jpg);
     box-sizing: content-box;
     border: 100ch;
     background-color:none;
@@ -26,7 +26,7 @@ body {
 
 .body-content2 {
     /* body attributes */
-    background-image: url(./code2.jpg);
+    background-image: url(./assets/code2.jpg);
     box-sizing: content-box;
     border: 100ch;
     background-color:none;
